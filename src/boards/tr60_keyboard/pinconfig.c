@@ -1,3 +1,9 @@
+/*
+ * The MIT License (MIT)
+ *
+ * Copyright (c) 2025 Srishtik Bhandarkar
+ *
+ */
 #include "boards.h"
 #include "uf2/configkeys.h"
 
